@@ -1,2 +1,21 @@
-# ai-text-chatbot
-The AI Text Chatbot project is designed to simulate intelligent, human-like conversations using Natural Language Processing (NLP) and Machine Learning techniques. The chatbot can understand user queries, process text inputs, and generate meaningful responses in real time. 
+An AI-powered interactive Text Chatbot built using Python and Machine Learning / Natural Language Processing to engage in intelligent, context-aware conversations.
+​🌐 Live Demo
+​https://ai-text-chatbot-krish.streamlit.app/
+​🚀 Features
+​Intelligent text-based conversation processing
+​Machine Learning / NLP-based intent classification or response generation
+​Dynamic context handling and text vectorization
+​Displays prediction confidence or response relevance scores
+​Web interface built with Streamlit
+​Desktop GUI built with Tkinter
+​Command-line version included
+​🛠️ Technologies Used
+​Python
+​Pandas
+​Scikit-learn / NLTK
+​Logistic Regression / Neural Networks
+​TF-IDF Vectorizer
+​Streamlit
+​Tkinter
+​Joblib
+​
